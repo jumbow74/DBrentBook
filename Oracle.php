@@ -53,6 +53,7 @@
 	<li>
 		<Strong>Example</Strong>
 		<ul>
+			<li><a href='register.php'>Register</a></li>
 			<li><a href='login.php'>Login form</a></li>
 			<li><a href='MemberPage.php'>Member page</a></li>
 			<li><a href='changePass.php'>Change Password</a></li>

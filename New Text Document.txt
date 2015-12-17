@@ -1,0 +1,3 @@
+copy to C:\XAMPP\HTDOCS
+run at HTTP://LOCALHOST:8081/DBrentBook/ORACLE.PHP
+
